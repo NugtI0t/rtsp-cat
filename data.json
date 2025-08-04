@@ -112,5 +112,23 @@
 	{ "url": "rtsp://User:qwer1234@5.128.172.62:49112/Streaming/Channels/501", "desc": "Периметр В", "urlv": "rtsp://5.128.172.62:49112/Streaming/Channels/501" },
 	{ "url": "rtsp://User:qwer1234@5.128.172.62:49112/Streaming/Channels/901", "desc": "Периметр Г", "urlv": "rtsp://5.128.172.62:49112/Streaming/Channels/901" },
 	{ "url": "rtsp://User:qwer1234@5.128.172.62:49112/Streaming/Channels/601", "desc": "Периметр Г проезд паркинг", "urlv": "rtsp://rtsp://5.128.172.62:49112/Streaming/Channels/601" }
-  ]
+  ],
+ "house4": [
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/1201", "desc": "Секция 1", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/1201" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/1301", "desc": "Секция 2", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/1301" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/1401", "desc": "Секция 3", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/1401" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/1501", "desc": "Секция 4", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/1501" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/1601", "desc": "Секция 5", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/1601" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/101", "desc": "Периметр 01", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/101" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/201", "desc": "Периметр 02", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/201" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/301", "desc": "Периметр 03", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/301" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/401", "desc": "Периметр 04", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/401" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/501", "desc": "Периметр 05", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/501" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/601", "desc": "Периметр 06", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/601" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/701", "desc": "Периметр 07", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/701" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/801", "desc": "Периметр 08", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/801" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/1001", "desc": "Двор 1", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/1001" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/1101", "desc": "Двор 2", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/1101" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:43054/Streaming/Channels/901", "desc": "Паркинг въезд", "urlv": "rtsp://5.128.172.77:43054/Streaming/Channels/901" }	
+  ]	
 }
