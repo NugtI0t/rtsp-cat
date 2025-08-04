@@ -6,4 +6,11 @@
       "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/901"
     }
   ]
+  "house2": [
+    {
+      "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/901",
+      "desc": "Улица А1",
+      "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/901"
+    }
+  ]
 }
