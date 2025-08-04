@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Каталог RTSP-ссылок</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 15px; }
+    select { width: 100%; padding: 8px; font-size: 16px; margin-bottom: 15px; }
+    table { border-collapse: collapse; width: 100%; font-size: 14px; }
+    th, td { border: 1px solid #444; padding: 8px; word-break: break-word; }
+    th { background-color: #f2f2f2; }
+    a { color: blue; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    @media (max-width: 600px) { table, th, td { font-size: 12px; } }
+  </style>
+</head>
+<body>
+  <h2>Каталог RTSP-ссылок</h2>
+  <label for="houseSelect">Выберите дом:</label>
+  <select id="houseSelect">
+    <option value="">-- Выберите дом --</option>
+    <option value="house1">Заровного 8</option>
+  </select>
+  <div id="tablesContainer"></div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const houseSelect = document.getElementById("houseSelect");
+      const container = document.getElementById("tablesContainer");
+
+      fetch('data.json')
+        .then(response => {
+          if (!response.ok) throw new Error("HTTP " + response.status);
+          return response.json();
+        })
+        .then(data => {
+          houseSelect.addEventListener("change", () => {
+            const house = houseSelect.value;
+            container.innerHTML = "";
+
+            if (!house || !data[house]) return;
+
+            const table = document.createElement("table");
+            table.innerHTML = "<tr><th>Ссылка</th><th>Описание</th></tr>";
+
+            data[house].forEach(item => {
+              const urlText = item.urlv ? item.urlv : item.url;
+              const row = document.createElement("tr");
+              row.innerHTML = `<td><a href="${item.url}">${urlText}</a></td><td>${item.desc}</td>`;
+              table.appendChild(row);
+            });
+
+            container.appendChild(table);
+          });
+        })
+        .catch(error => {
+          container.innerHTML = "<p style='color:red;'>Ошибка загрузки данных: " + error + "</p>";
+        });
+    });
+  </script>
+</body>
+</html>
