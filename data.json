@@ -74,5 +74,8 @@
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1501", "desc": "Кладовая Е -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1501" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/901", "desc": "Кладовые Ж -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/901" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1101", "desc": "Кладовые З -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1101" }
+  ],
+ "house2": [
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/502", "desc": "Вход улица", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/502" }
   ]
 }
