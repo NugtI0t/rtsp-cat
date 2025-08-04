@@ -1,9 +1,78 @@
 {
   "house1": [
-    {
-      "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/901",
-      "desc": "Улица А1",
-      "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/901"
-    }
+   { "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/901", "desc": "Улица А1", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/901"},
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/1201", "desc": "Улица А2", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/1201" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/301", "desc": "Двор А", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/301" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/2001", "desc": "Холл А лифт", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/2001" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/1601", "desc": "Холл А улица", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/1601" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/601", "desc": "Лифт А", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/601" },
+
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/3001", "desc": "Улица Б1", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/3001" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/1001", "desc": "Улица паркинг 2", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/1001" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/2901", "desc": "Холл Б лифт", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/2901" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/3201", "desc": "Холл Б улица", "urlv": "rrtsp://5.128.172.62:49117/Streaming/Channels/3201" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/2901", "desc": "Лифт Б", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/2901" },
+
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/101", "desc": "Улица В1", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/101" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/1401", "desc": "Двор В", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/1401" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/2101", "desc": "Холл В лифт", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/2101" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/1501", "desc": "Холл В улица", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/1501" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/3001", "desc": "Лифт В", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/3001" },
+	
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/2701", "desc": "Улица паркинг 1", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/2701" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/2501", "desc": "Холл Г лифт", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/2501" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/2401", "desc": "Холл Г улица", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/2401" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/2801", "desc": "Лифт Г", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/2801" },
+	
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/2601", "desc": "Улица Д1", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/2601" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/1101", "desc": "Улица Д2", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/1101" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/401", "desc": "Двор Д", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/401" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/2201", "desc": "Холл Д лифт", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/2201" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/2801", "desc": "Холл Д улица", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/2801" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/201", "desc": "Лифт Д", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/201" },
+
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/801", "desc": "Улица Е1", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/801" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/1901", "desc": "Холл Е лифт", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/1901" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/1801", "desc": "Холл Е улица", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/1801" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/2701", "desc": "Лифт Е", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/2701" },
+
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/701", "desc": "Улица Ж1", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/701" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/201", "desc": "Улица Ж2", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/201" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/1301", "desc": "Двор Ж", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/1301" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/501", "desc": "Холл Ж лифт", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/501" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/1701", "desc": "Холл Ж улица", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/1701" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/3201", "desc": "Лифт Ж", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/3201" },
+
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/601", "desc": "Улица З1", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/601" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/2301", "desc": "Холл З лифт", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/2301" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49117/Streaming/Channels/3101", "desc": "Холл З улица", "urlv": "rtsp://5.128.172.62:49117/Streaming/Channels/3101"},
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/3101", "desc": "Лифт З", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/3101" },
+
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/101", "desc": "Ворота -1 эт. В-Б", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/101" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/301", "desc": "Паркинг -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/301" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/2201", "desc": "Паркинг А -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/2201" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1701", "desc": "Паркинг Б -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1701" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/2501", "desc": "Паркинг В -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/2501" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1801", "desc": "Паркинг Г -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1801" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/801", "desc": "Паркинг Д -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/801" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/2101", "desc": "Паркинг Е -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/2101" },
+
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/501", "desc": "Ворота 1 эт. В-Г", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/501" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/401", "desc": "Паркинг 1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/401" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/2401", "desc": "Паркинг А 1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/2401" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1601", "desc": "Паркинг Б 1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1601" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1901", "desc": "Паркинг В 1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1901" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/2601", "desc": "Паркинг Д 1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/2601" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/2301", "desc": "Паркинг Е 1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/2301" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/2001", "desc": "Паркинг Ж 1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/2001" },
+
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1001", "desc": "Кладовые А -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1001" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1301", "desc": "Кладовые Б -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1301" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1401", "desc": "Кладовая Г -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1401" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1201", "desc": "Кладовые Г -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1201" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/701", "desc": "Кладовые Д -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/701" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1501", "desc": "Кладовая Е -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1501" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/901", "desc": "Кладовые Ж -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/901" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1101", "desc": "Кладовые З -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1101" }
   ]
 }
