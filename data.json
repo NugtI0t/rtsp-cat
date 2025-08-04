@@ -76,9 +76,10 @@
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49118/Streaming/Channels/1101", "desc": "Кладовые З -1 эт.", "urlv": "rtsp://5.128.172.62:49118/Streaming/Channels/1101" }
   ],
  "house2": [
-	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/502", "desc": "Вход улица", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/502" },
-	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/402", "desc": "Периметр 04", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/402" },
-	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/302", "desc": "Периметр 03", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/302" },
-	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/202", "desc": "Периметр 02", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/202" }
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/501", "desc": "Вход улица", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/501" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/401", "desc": "Периметр 04", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/401" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/301", "desc": "Периметр 03", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/301" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/201", "desc": "Периметр 02", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/201" },
+	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/101", "desc": "Периметр 01", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/101" }
   ]
 }
