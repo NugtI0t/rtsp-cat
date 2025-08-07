@@ -235,7 +235,7 @@
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47254/Streaming/channels/1001", "desc": "Секция 5 лестница", "urlv": "rtsp://5.128.172.77:47254/Streaming/channels/1001" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47254/Streaming/channels/1501", "desc": "Секция 6 лифт холл", "urlv": "rtsp://5.128.172.77:47254/Streaming/channels/1501" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47254/Streaming/channels/1101", "desc": "Секция 6 лестница", "urlv": "rtsp://5.128.172.77:47254/Streaming/channels/1101" }, 
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1701", "desc": "Двор 1", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1701" }
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1701", "desc": "Двор 1", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1701" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1801", "desc": "Двор 2", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1801" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1901", "desc": "Двор 3", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1901" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/2001", "desc": "Двор 4", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/2001" },
@@ -255,7 +255,6 @@
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1301", "desc": "Периметр 14", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1301" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1401", "desc": "Периметр 15", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1401" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1501", "desc": "Периметр 16", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1501" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1601", "desc": "Периметр 17", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1601" },
-	
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1601", "desc": "Периметр 17", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1601" }
   ]
 }
