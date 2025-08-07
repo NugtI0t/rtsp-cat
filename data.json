@@ -256,5 +256,29 @@
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1401", "desc": "Периметр 15", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1401" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1501", "desc": "Периметр 16", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1501" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:47154/Streaming/channels/1601", "desc": "Периметр 17", "urlv": "rtsp://5.128.172.77:47154/Streaming/channels/1601" }
+  ],
+ "house8": [
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/1201", "desc": "Секция 1", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/1201" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/1301", "desc": "Секция 2", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/1301" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/1401", "desc": "Секция 3", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/1401" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/1501", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/1501" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/1601", "desc": "Секция 5", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/1601" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/1701", "desc": "Секция 6", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/1701" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/1801", "desc": "Секция 7", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/1801" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/1901", "desc": "Секция 8", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/1901" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/101", "desc": "Периметр 1", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/101" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/201", "desc": "Периметр 2", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/201" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/301", "desc": "Периметр 3", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/301" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/401", "desc": "Периметр 4", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/401" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/501", "desc": "Периметр 5", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/501" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/601", "desc": "Периметр 6", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/601" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/701", "desc": "Периметр 7", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/701" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/801", "desc": "Периметр 8", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/801" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/901", "desc": "Периметр 9", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/901" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/1001", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/1001" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/1101", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/1101" }, 
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/2001", "desc": "PCG", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/2001" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/2101", "desc": "Камера 1", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/2101" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:44054/Streaming/channels/2201", "desc": "Паркинг въезд", "urlv": "rtsp://5.128.172.77:44054/Streaming/channels/2201" }	
   ]
 }
