@@ -433,6 +433,7 @@
 	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/502", "desc": "Периметр 6", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/502" }
   ],
 	"house13": [
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/401", "desc": "Периметр 4", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/401" }
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/401", "desc": "Периметр 4", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/401" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48254/Streaming/channels/101", "desc": "Кладовка 4", "urlv": "rtsp://5.128.172.77:48254/Streaming/channels/101" }
   ]
 }
