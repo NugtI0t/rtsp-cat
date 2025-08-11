@@ -428,5 +428,11 @@
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49216/Streaming/Channels/2301", "desc": "Паркинг 1", "urlv": "rtsp://5.128.172.62:49216/Streaming/Channels/2301" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49216/Streaming/Channels/2401", "desc": "Паркинг 2", "urlv": "rtsp://5.128.172.62:49216/Streaming/Channels/2401" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49216/Streaming/Channels/2501", "desc": "Паркинг 3", "urlv": "rtsp://5.128.172.62:49216/Streaming/Channels/2501" }
+  ],
+	"house12": [
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/502", "desc": "Периметр 6", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/502" }
+  ],
+	"house13": [
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/401", "desc": "Периметр 4", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/401" }
   ]
 }
