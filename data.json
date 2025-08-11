@@ -435,5 +435,9 @@
 	"house13": [
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/401", "desc": "Периметр 4", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/401" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48254/Streaming/channels/101", "desc": "Кладовка 4", "urlv": "rtsp://5.128.172.77:48254/Streaming/channels/101" }
+  ],
+	"house14": [
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/101", "desc": "Периметр 1 Торец", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/101" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/101", "desc": "Секция 1 лифт холл", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/101" }
   ]
 }
