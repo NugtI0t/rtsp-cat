@@ -310,6 +310,7 @@
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:45054/Streaming/channels/2601", "desc": "Паркинг В", "urlv": "rtsp://5.128.172.77:45054/Streaming/channels/2601" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:45054/Streaming/channels/2701", "desc": "Паркинг Г", "urlv": "rtsp://5.128.172.77:45054/Streaming/channels/2701" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:45054/Streaming/channels/2801", "desc": "Паркинг Г", "urlv": "rtsp://5.128.172.77:45054/Streaming/channels/2801" }
+	],
 	"house10": [
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:46054/Streaming/channels/901", "desc": "Двор 1", "urlv": "rtsp://5.128.172.77:46054/Streaming/channels/901" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:46054/Streaming/channels/1001", "desc": "Двор 2", "urlv": "rtsp://5.128.172.77:46054/Streaming/channels/1001" },
