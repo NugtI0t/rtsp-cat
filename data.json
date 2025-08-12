@@ -368,7 +368,7 @@
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/2001", "desc": "Секция 3 периметр 2", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/2001" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/2101", "desc": "Секция 3 периметр 3", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/2101" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/2201", "desc": "Секция 3 периметр 4", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/2201" },
-	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/2301", "desc": "Секция 3 вход улица", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/2301" }
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/2301", "desc": "Секция 3 вход улица", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/2301" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/2401", "desc": "Секция 3 вход двор", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/2401" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/2501", "desc": "Секция 3 холл лифт -1", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/2501" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/2601", "desc": "Секция 3 холл лифт -2", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/2601" },
