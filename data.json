@@ -457,7 +457,26 @@
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/2701", "desc": "Пост охраны", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/2701" }
   ],
 	"house12": [
-	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/502", "desc": "Периметр 6", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/502" }
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/501", "desc": "Периметр 6", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/501" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/101", "desc": "Парикнг 1", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/101" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/201", "desc": "Колясочная", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/201" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/301", "desc": "Периметр 1", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/301" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/401", "desc": "Лифт холл 2", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/401" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/601", "desc": "Лифт холл 1", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/601" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/701", "desc": "Вход 1", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/701" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/801", "desc": "Паркинг 2", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/801" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/901", "desc": "Паркинг 3", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/901" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1001", "desc": "Периметр 2", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1001" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1101", "desc": "Вход 2", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1101" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1201", "desc": "Паркинг 4", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1201" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1301", "desc": "Периметр 5", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1301" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1401", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1401" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1501", "desc": "Паркинг 6", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1501" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1601", "desc": "Периметр 4", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1601" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1701", "desc": "Паркинг 5", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1701" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1801", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1801" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1901", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1901" },
+	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/2001", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/2001" }
   ],
 	"house13": [
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/401", "desc": "Периметр 4", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/401" },
