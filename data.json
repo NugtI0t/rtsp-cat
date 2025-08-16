@@ -483,7 +483,19 @@
 	{ "url": "rtsp://User:Userrtsp@5.128.172.62:50000/Streaming/channels/1901", "desc": "Периметр 8", "urlv": "rtsp://5.128.172.62:50000/Streaming/channels/1901" }	
   ],
 	"house13": [
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/101", "desc": "Периметр 1", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/101" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/201", "desc": "Периметр 2", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/201" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/301", "desc": "Периметр 3", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/301" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/401", "desc": "Периметр 4", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/401" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/501", "desc": "Вход улица", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/501" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/601", "desc": "Лифт 1", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/601" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/701", "desc": "Лифт 2", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/701" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48054/Streaming/channels/801", "desc": "Лифт 3", "urlv": "rtsp://5.128.172.77:48054/Streaming/channels/801" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48254/Streaming/channels/301", "desc": "Лифт холл", "urlv": "rtsp://5.128.172.77:48254/Streaming/channels/301" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48254/Streaming/channels/501", "desc": "Подвал вход", "urlv": "rtsp://5.128.172.77:48254/Streaming/channels/501" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48254/Streaming/channels/401", "desc": "Кладовка 1", "urlv": "rtsp://5.128.172.77:48254/Streaming/channels/401" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48254/Streaming/channels/601", "desc": "Кладовка 2", "urlv": "rtsp://5.128.172.77:48254/Streaming/channels/601" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48254/Streaming/channels/201", "desc": "Кладовка 3", "urlv": "rtsp://5.128.172.77:48254/Streaming/channels/201" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48254/Streaming/channels/101", "desc": "Кладовка 4", "urlv": "rtsp://5.128.172.77:48254/Streaming/channels/101" }
   ],
 	"house14": [
