@@ -556,11 +556,13 @@
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/2301", "desc": "26/3 секция 1 лифт холл", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2301" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/2401", "desc": "26/3 секция 1 вход паркинг", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2401" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/2501", "desc": "26/3 секция 1 вход двор", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2501" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/2601", "desc": "26/3 секция 1 вход улица", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2601" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/2601", "desc": "26/3 секция 2 вход паркинг", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2601" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/2701", "desc": "26/3 секция 2 лифт холл", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2701" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/2801", "desc": "26/3 секция 2 вход двор", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2801" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/2901", "desc": "26/3 секция 2 вход улица", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2901" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/3001", "desc": "26/3 секция 3 вход паркинг", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/3001" }
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/2901", "desc": "26/3 секция 3 вход улица", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2901" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/3001", "desc": "26/3 секция 3 вход паркинг", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/3001" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/3101", "desc": "26/3 секция 3 лифт холл", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/3101" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41254/Streaming/channels/3201", "desc": "26/3 секция 3 паркинг ворота", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/3201" }
   ],
 	"house15": [
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:52054/Streaming/channels/101", "desc": "Периметр 1", "urlv": "rtsp://5.128.172.77:52054/Streaming/channels/101" }
