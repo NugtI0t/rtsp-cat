@@ -499,25 +499,30 @@
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:48254/Streaming/channels/101", "desc": "Кладовка 4", "urlv": "rtsp://5.128.172.77:48254/Streaming/channels/101" }
   ],
 	"house14": [
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/101", "desc": "Периметр 1 Торец", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/101" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/201", "desc": "26/3 Периметр 1", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/201" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/301", "desc": "Паркинг въезд", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/301" },
+	
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/201", "desc": "26/3 Периметр торец", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/201" },
+	
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/101", "desc": "26 Периметр торец", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/101" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/401", "desc": "26 Периметр 1", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/401" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/501", "desc": "26 Периметр 2", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/501" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/601", "desc": "26 Периметр 3", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/601" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/701", "desc": "26/1 Периметр 1", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/701" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/801", "desc": "26/1 Периметр 2", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/801" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/901", "desc": "26/3 Периметр 2", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/901" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1001", "desc": "26/3 Периметр 3", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1001" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1101", "desc": "26/3 Периметр 4", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1101" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/301", "desc": "26 Паркинг въезд", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/301" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1201", "desc": "26 Периметр 02", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1201" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1301", "desc": "26 Периметр 03", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1301" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1401", "desc": "26 Периметр 04", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1401" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1501", "desc": "26/1 Периметр 3", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1501" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1601", "desc": "26/1 Периметр 4", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1601" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1701", "desc": "26/3 Периметр 5", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1701" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1801", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1801" },
-	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1901", "desc": "26/3 Периметр 7", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1901" },
+		
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/701", "desc": "26/1 Периметр 1", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/701" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/801", "desc": "26/1 Периметр 2", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/801" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1501", "desc": "26/1 Периметр 01", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1501" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1601", "desc": "26/1 Периметр 02", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1601" },
+	
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/901", "desc": "26/3 Периметр 1", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/901" },	
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1001", "desc": "26/3 Периметр 2", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1001" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1101", "desc": "26/3 Периметр 3", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1101" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1701", "desc": "26/3 Периметр 01", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1701" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1801", "desc": "26/3 Периметр 02", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1801" },
+	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/1901", "desc": "26/3 Периметр 03", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/1901" },
+	
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/2001", "desc": "Лифт 4", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2001" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/2101", "desc": "Лифт 2", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2101" },
 	{ "url": "rtsp://rtsp:Flowcam32@5.128.172.77:41154/Streaming/channels/2201", "desc": "Лифт 3", "urlv": "rtsp://5.128.172.77:41154/Streaming/channels/2201" },
