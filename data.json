@@ -354,6 +354,7 @@
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/801", "desc": "Секция 1 холл", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/801" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/901", "desc": "Секция 1 холл 2", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/901" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/1001", "desc": "Секция 1 холл лифт -2", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/1001" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49217/Streaming/Channels/501", "desc": "Секция 1.1 лифт", "urlv": "rtsp://5.128.172.62:49217/Streaming/Channels/501" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49217/Streaming/Channels/601", "desc": "Секция 1.2 лифт", "urlv": "rtsp://5.128.172.62:49217/Streaming/Channels/601" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/1101", "desc": "Секция 1 подвал 1", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/1101" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/1201", "desc": "Секция 1 подвал 2", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/1201" },
@@ -453,7 +454,6 @@
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49217/Streaming/Channels/101", "desc": "Паркинг -1 снаружи", "urlv": "rtsp://5.128.172.62:49217/Streaming/Channels/101" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49217/Streaming/Channels/201", "desc": "Паркинг -1 внутри", "urlv": "rtsp://5.128.172.62:49217/Streaming/Channels/201" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49217/Streaming/Channels/301", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.62:49217/Streaming/Channels/301" },
-	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49217/Streaming/Channels/501", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.62:49217/Streaming/Channels/501" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49215/Streaming/Channels/2701", "desc": "Пост охраны", "urlv": "rtsp://5.128.172.62:49215/Streaming/Channels/2701" }
   ],
 	"house12": [
