@@ -86,7 +86,6 @@
 	{ "url": "rtsp://Operator:Operator1@5.128.172.77:42054/Streaming/Channels/801", "desc": "Паркинг FRONT", "urlv": "rtsp://5.128.172.77:42054/Streaming/Channels/801" }
   ],
  "house3": [
-	
 	{ "url": "rtsp://User:qwer1234@5.128.172.62:49112/Streaming/Channels/1001", "desc": "Ворота", "urlv": "rtsp://5.128.172.62:49112/Streaming/Channels/1001" },
 	{ "url": "rtsp://User:qwer1234@5.128.172.62:49110/Streaming/Channels/401", "desc": "А холл подвал", "urlv": "rtsp://5.128.172.62:49110/Streaming/Channels/401" },
 	{ "url": "rtsp://User:qwer1234@5.128.172.62:49110/Streaming/Channels/501", "desc": "А холл двор", "urlv": "rtsp://5.128.172.62:49110/Streaming/Channels/501" },
