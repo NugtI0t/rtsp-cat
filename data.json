@@ -205,6 +205,7 @@
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49108/Streaming/Channels/2701", "desc": "Улица Е", "urlv": "rtsp://5.128.172.62:49108/Streaming/Channels/2701" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49108/Streaming/Channels/301", "desc": "Улица Ж 1", "urlv": "rtsp://5.128.172.62:49108/Streaming/Channels/301" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49108/Streaming/Channels/2901", "desc": "Улица Ж 2", "urlv": "rtsp://5.128.172.62:49108/Streaming/Channels/2901" },
+	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49108/Streaming/Channels/901", "desc": "Улица З 1", "urlv": "rtsp://5.128.172.62:49108/Streaming/Channels/901" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49108/Streaming/Channels/2201", "desc": "Улица И 1", "urlv": "rtsp://5.128.172.62:49108/Streaming/Channels/2201" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49108/Streaming/Channels/2001", "desc": "Улица И 2", "urlv": "rtsp://5.128.172.62:49108/Streaming/Channels/2001" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49108/Streaming/Channels/2601", "desc": "Улица И 3", "urlv": "rtsp://5.128.172.62:49108/Streaming/Channels/2601" },
@@ -216,7 +217,6 @@
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49213/Streaming/Channels/201", "desc": "Секция Б паркинг", "urlv": "rtsp://5.128.172.62:49213/Streaming/Channels/201" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49213/Streaming/Channels/301", "desc": "Секция Ж in", "urlv": "rtsp://5.128.172.62:49213/Streaming/Channels/301" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49213/Streaming/Channels/401", "desc": "Секция Ж паркинг", "urlv": "rtsp://5.128.172.62:49213/Streaming/Channels/401" },
-	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49108/Streaming/Channels/901", "desc": "Уточнить расположение", "urlv": "rtsp://5.128.172.62:49108/Streaming/Channels/901" },
 	{ "url": "rtsp://Brusnika:zZNLC77n@5.128.172.62:49108/Streaming/Channels/1701", "desc": "Кладовые Ж -1 паркинг", "urlv": "rtsp://5.128.172.62:49108/Streaming/Channels/1701" }	
   ],
  "house6": [
